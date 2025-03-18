@@ -28,5 +28,5 @@ The project contains the following SQL files:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/School-Management-System-SQL.git
+git clone https://github.com/yuvarajsakthi/School-Management-System-SQL.git
 cd School-Management-System-SQL
